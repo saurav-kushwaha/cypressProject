@@ -12,9 +12,11 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "test:open": "npx cypress run --spec cypress/e2e/test",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "cypress": "^14.4.1"
+    "cypress": "^14.4.1",
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }
