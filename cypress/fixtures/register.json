@@ -1,0 +1,12 @@
+{
+  "name": {
+    "first_name": "saurav",
+    "last_name": "kumar"
+  },
+
+  "email": "kuamr123@gmail.com.com",
+  "phone": "1234567890",
+  "login": {
+    "password": "Cypress123###"
+  }
+}
